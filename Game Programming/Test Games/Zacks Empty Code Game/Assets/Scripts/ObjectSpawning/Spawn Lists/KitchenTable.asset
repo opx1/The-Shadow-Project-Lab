@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d426d1341e8f1e4cb8d8b5659f4c402, type: 3}
+  m_Name: KitchenTable
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 4505925327080446177, guid: bbb135170a1bd8149ab82716ef1cb798, type: 3}
+  - {fileID: 4092527938887456880, guid: 09e9cb56ca484d147a15c10dd4fe415a, type: 3}
+  - {fileID: 2544249434438524623, guid: 0ec49dfba53d81548ad306eabe0d5764, type: 3}

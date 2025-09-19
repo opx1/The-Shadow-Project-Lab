@@ -5,7 +5,7 @@ using UnityEngine;
 // Script Created By: Zackery Elmer
 // Last Updated By: Zackery Elmer
 
-public class Instantiate : MonoBehaviour
+public class InstantiateBehavior : MonoBehaviour
 {
     public List<GameObject> spawnLocations; // Locations they can be spawned
     public List<GameObject> spawnables; // Objects you can spawn
